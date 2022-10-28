@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @zhu0629
-- 👀 I’m interested in ["Python", "React"]
+- 👀 I’m interested in ["Python", "React", "JavaScript"]
 - 🌱 I’m currently learning "React"
 - 📫 Reach me with WeChat id: `zhuc0629`
